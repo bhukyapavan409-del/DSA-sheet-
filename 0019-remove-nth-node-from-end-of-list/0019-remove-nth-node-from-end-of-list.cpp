@@ -14,14 +14,14 @@ public:
         
         ListNode*fast=head;
         for(int i=0;i<n;i++){
-            fast=fast->next;
+            fast=fast->next;    //first move fast pointer by n steps
         }
-        if(fast==NULL){
+        if(fast==NULL){         //edge case
             return head->next;
         }
         ListNode*slow=head;
         while(fast->next!=NULL){
-        slow=slow->next;
+        slow=slow->next;           //now move fast and slow at same time by one step
        fast=fast->next; 
       }
       ListNode*delNode=slow->next;
