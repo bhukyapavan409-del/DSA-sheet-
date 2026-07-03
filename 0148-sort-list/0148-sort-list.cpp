@@ -22,9 +22,9 @@ public:
             slow=slow->next;
             fast=fast->next->next;
         }
-        temp->next=NULL;
+        temp->next=NULL; // end of first left half
         ListNode*List1=sortList(head);
-        ListNode*List2=sortList(slow);
+        ListNode*List2=sortList(slow); // right half
         return mergeList(List1,List2);
     }
     ListNode*mergeList(ListNode*List1,ListNode*List2){
@@ -40,7 +40,7 @@ public:
                 List2=List2->next;
             }
             curr=curr->next;
-        }
+        }        // unequal length of linked list
         if(List1!=NULL){
             curr->next=List1;
             List1=List1->next;
