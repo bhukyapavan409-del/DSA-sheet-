@@ -6,7 +6,7 @@ public:
             return;
         }
         for(int i=indx;i<arr.size();i++){
-            if(i>indx && arr[i]==arr[i-1]) continue;
+            if(i>indx && arr[i]==arr[i-1]) continue;    //if next candidate is same then do not pick it just continue
             if(arr[i]>target) break;
             ds.push_back(arr[i]);       //pick
             findCombination(i+1,target-arr[i],arr,ans,ds);
