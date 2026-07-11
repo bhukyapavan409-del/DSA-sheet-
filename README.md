@@ -85,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0040-combination-sum-ii) |
+| [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
