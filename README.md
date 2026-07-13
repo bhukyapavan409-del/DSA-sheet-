@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1922-count-good-numbers) |
 ## String
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
