@@ -25,6 +25,6 @@ public:
                     min=0;
                 }
         }
-        return (min==0);
+        return (min==0);   //left must be zero[0,]
     }
 };
