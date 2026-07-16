@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0860-lemonade-change) |
