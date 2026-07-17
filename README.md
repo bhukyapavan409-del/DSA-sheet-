@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
 ## Merge Sort
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
