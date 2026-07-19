@@ -7,8 +7,8 @@ public:
        int r=0;
        int maxLen=0;
        while(r<n){
-        if(hash.find(s[r])!=hash.end()){
-            l=max(l,hash[s[r]]+1);
+        if(hash.find(s[r])!=hash.end()&&hash[s[r]]>=l){
+            l=hash[s[r]]+1;
         }
         int len=r-l+1;
         maxLen=max(maxLen,len);
