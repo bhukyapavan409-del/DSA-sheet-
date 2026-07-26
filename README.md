@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0860-lemonade-change) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -151,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
