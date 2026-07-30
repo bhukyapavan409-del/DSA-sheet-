@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
