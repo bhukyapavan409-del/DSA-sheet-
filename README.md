@@ -177,4 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
