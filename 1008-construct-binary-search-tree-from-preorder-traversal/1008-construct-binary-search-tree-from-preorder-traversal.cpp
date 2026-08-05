@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-    // optimized 
     TreeNode* insertInBst(TreeNode* root, int min, int max, int val){
         if(!root){
             return new TreeNode(val);
