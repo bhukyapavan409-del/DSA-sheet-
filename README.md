@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
