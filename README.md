@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
@@ -270,4 +271,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
