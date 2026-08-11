@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
