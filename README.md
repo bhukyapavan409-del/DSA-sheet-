@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
@@ -301,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
