@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
