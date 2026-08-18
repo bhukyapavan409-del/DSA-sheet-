@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
