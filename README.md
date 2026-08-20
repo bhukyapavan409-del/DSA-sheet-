@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0686-repeated-string-match) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -337,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
