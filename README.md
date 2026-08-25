@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0056-merge-intervals) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
