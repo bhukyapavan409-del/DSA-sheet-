@@ -1,32 +1,34 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
-        int left=0;
-        int right=height.size()-1;
-        int leftmax=0;
-        int rightmax=0;
-        int water=0;
-        while(left<right){
-            if(height[left]<=height[right]){
-                if(leftmax > height[left]){
-                 water+=leftmax-height[left];}
-                 else{
-                     leftmax=height[left];
-                   
-            } 
-             left=left+1; 
-            }
-            else{
-                if(rightmax>height[right]){
-                    water+=rightmax-height[right];
-                }
-                    else{
-                       rightmax=height[right];
-                    
-                }  
-                right=right-1;  
-            }
+
+
+    vector<int> getLeftMax(vector<int>&height,int &n){
+        vector<int>prefix(n);
+        prefix[0]=height[0];
+        for(int i=1;i<n;i++){
+            prefix[i]=max(prefix[i-1],height[i]);
         }
-  return water;
+        return prefix;
+    }
+   vector<int> getRightMax(vector<int>&height,int &n){
+    vector<int>suffix(n);
+    suffix[n-1]=height[n-1];
+    for(int i=n-2;i>=0;i--){
+        suffix[i]=max(suffix[i+1],height[i]);
+    }
+    return suffix;
+   }
+
+    int trap(vector<int>& height) {
+        int n=height.size();
+        if(n<1) return 0;
+        vector<int>leftMax=getLeftMax(height,n);
+        vector<int>rightMax=getRightMax(height,n);
+        int sum=0;
+        for(int i=1;i<n-1;i++)
+        {
+            sum+=min(leftMax[i],rightMax[i])-height[i];
+        }
+        return sum;
     }
 };
