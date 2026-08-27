@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0503-next-greater-element-ii) |
@@ -413,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0232-implement-queue-using-stacks) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
