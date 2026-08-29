@@ -11,7 +11,7 @@ public:
         indx++;
         while(!st.empty()&& st.top().first<=price)
          st.pop();
-         int ans=indx-(st.empty()?-1:st.top().second);
+         int ans=indx-(st.empty()?-1:st.top().second);  //current indx - pge 
          st.push({price,indx});
          return ans;
     }
