@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -460,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
