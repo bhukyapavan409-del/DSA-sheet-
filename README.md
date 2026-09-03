@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
@@ -481,5 +484,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
