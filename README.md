@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
@@ -486,4 +488,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0720-longest-word-in-dictionary) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
