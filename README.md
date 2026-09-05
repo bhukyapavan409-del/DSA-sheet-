@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0720-longest-word-in-dictionary) |
 | [0930-binary-subarrays-with-sum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0930-binary-subarrays-with-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0720-longest-word-in-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0720-longest-word-in-dictionary) |
 | [0735-asteroid-collision](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0860-lemonade-change) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
 |  |
@@ -470,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
