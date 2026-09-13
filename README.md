@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -508,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0720-longest-word-in-dictionary) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
