@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -513,4 +514,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
