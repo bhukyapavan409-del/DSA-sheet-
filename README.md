@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0085-maximal-rectangle) |
