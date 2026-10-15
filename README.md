@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0496-next-greater-element-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
