@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0191-number-of-1-bits) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0735-asteroid-collision) |
 ## Heap (Priority Queue)
 |  |
