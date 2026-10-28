@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1922-count-good-numbers) |
 ## String
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0686-repeated-string-match) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0735-asteroid-collision) |
 ## Heap (Priority Queue)
 |  |
