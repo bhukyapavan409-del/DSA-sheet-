@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1470-shuffle-the-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
