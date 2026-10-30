@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0669-trim-a-binary-search-tree) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -535,4 +537,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/bhukyapavan409-del/DSA-sheet-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
